@@ -3,7 +3,7 @@
 I am currently pursuing an MSc in **Computer Control & Automation** at **Nanyang Technological University (NTU)**, with a background in Software Engineering. I am passionate about robotics, automation, and academic research, with a strong aspiration to pursue a PhD.
 
 ## Current Focus
-* **Research:** Conducting research in Asst. Prof. Ziwei Wang's group at NTU, currently collaborating on a co-authored paper for **ECCV**.
+* **Research:** Conducting research in Asst. Prof. Ziwei Wang's group at NTU, currently collaborating on a co-authored paper.
 * **Academics:** Completing coursework and working on my Master's dissertation.
 
 ## Education
